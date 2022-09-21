@@ -40,3 +40,4 @@ int check_seperators(char c)
 	}
 	return (0);
 }
+

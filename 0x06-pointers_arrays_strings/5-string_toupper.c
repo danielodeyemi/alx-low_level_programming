@@ -3,7 +3,7 @@
 /**
  * string_toupper - a function that changes all lowercase letters of a  string
  * to upper case
- * @s: an input string
+ * @str: an input string
  * Return: char pointer to converted string
  */
 char *string_toupper(char *str)
@@ -14,7 +14,7 @@ char *string_toupper(char *str)
 	{
 		if (*str >= 'a' && *str <= 'z')
 			*str -= 32;
-		s++;
+		str++;
 	}
 	return (start);
 }
