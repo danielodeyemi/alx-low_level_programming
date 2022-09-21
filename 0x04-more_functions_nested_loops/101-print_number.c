@@ -6,7 +6,7 @@ void print_integer(int m);
  * @n: An input integer
  * Return: Nothing
  */
-void print_number(int n)
+void print_numbers(int n)
 {
 	if (n == 0)
 		_putchar('0');
