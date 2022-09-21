@@ -7,17 +7,17 @@
  */
 int main(void)
 {
-  print_numbers(98);
+  print_number(98);
   _putchar('\n');
-  print_numbers(402);
+  print_number(402);
   _putchar('\n');
-  print_numbers(1024);
+  print_number(1024);
   _putchar('\n');
-  print_numbers(0);
+  print_number(0);
   _putchar('\n');
-  print_numbers(-98);
+  print_number(-98);
   _putchar('\n');
-  print_numbers(-987654321);
+  print_number(-987654321);
   _putchar('\n');
   return (0);
 }
