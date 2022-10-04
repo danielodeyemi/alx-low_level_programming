@@ -1,1 +1,3 @@
-Practice files to learn the concept of static libraries in C programming language.
+# 0x08. C - Static libraries
+
+This repository contains more projects introducing the use, purpose of static libraries.
